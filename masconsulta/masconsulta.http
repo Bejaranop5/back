@@ -1,0 +1,6 @@
+@masconsulta_HostAddress = http://localhost:5023
+
+GET {{masconsulta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
